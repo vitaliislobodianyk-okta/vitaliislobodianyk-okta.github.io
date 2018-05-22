@@ -1,0 +1,10 @@
+{
+  "simulation": "slovit.SendSmsSimulation",
+  "simulationId": "sendsmssimulation",
+  "start": 1527005908082,
+  "description": "",
+  "scenarios": ["RecordedSimulation"],
+  "assertions": [
+
+  ]
+}
